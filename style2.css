@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana;
+    color : darkslategray;
+    background-color : papayawhip;
+  }
+  
+  img{
+    width: 40%;
+    border-radius: 10%;
+    box-shadow: 3px 3px 5px gray;
+  }
+  
+  li{
+    padding: 5px;
+  }
+
+button{
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+
+#home{
+    font-family: monospace;
+    font-size: 20px;
+    background-color: bisque;
+}
